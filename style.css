@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+    font-family: 'Dancing Script', cursive;
+}
+
+.header{
+   background-color:  yellow;
+}
+.content{
+    background-color: orange;
+}
+
+.inner{
+    background-color:yellow;
+}
